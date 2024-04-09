@@ -27,5 +27,3 @@ python test.py  --seed 2023  --save_path ./output/SHARK/  --model_file ./output/
 ## Acknowledgements
 
 - Some codes are based on [BARTABSA](https://github.com/yhcc/BARTABSA). Thanks a lot!
-
-for some test
